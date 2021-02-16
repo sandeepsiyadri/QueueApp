@@ -1,0 +1,16 @@
+/home/sandeep/QueueApp/bin/Debug/netcoreapp3.1/QueueApp
+/home/sandeep/QueueApp/bin/Debug/netcoreapp3.1/QueueApp.deps.json
+/home/sandeep/QueueApp/bin/Debug/netcoreapp3.1/QueueApp.runtimeconfig.json
+/home/sandeep/QueueApp/bin/Debug/netcoreapp3.1/QueueApp.runtimeconfig.dev.json
+/home/sandeep/QueueApp/bin/Debug/netcoreapp3.1/QueueApp.dll
+/home/sandeep/QueueApp/bin/Debug/netcoreapp3.1/QueueApp.pdb
+/home/sandeep/QueueApp/obj/Debug/netcoreapp3.1/QueueApp.csprojAssemblyReference.cache
+/home/sandeep/QueueApp/obj/Debug/netcoreapp3.1/QueueApp.AssemblyInfoInputs.cache
+/home/sandeep/QueueApp/obj/Debug/netcoreapp3.1/QueueApp.AssemblyInfo.cs
+/home/sandeep/QueueApp/obj/Debug/netcoreapp3.1/QueueApp.csproj.CoreCompileInputs.cache
+/home/sandeep/QueueApp/obj/Debug/netcoreapp3.1/QueueApp.dll
+/home/sandeep/QueueApp/obj/Debug/netcoreapp3.1/QueueApp.pdb
+/home/sandeep/QueueApp/obj/Debug/netcoreapp3.1/QueueApp.genruntimeconfig.cache
+/home/sandeep/QueueApp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/sandeep/QueueApp/bin/Debug/netcoreapp3.1/Microsoft.WindowsAzure.Storage.dll
+/home/sandeep/QueueApp/obj/Debug/netcoreapp3.1/QueueApp.csproj.CopyComplete
